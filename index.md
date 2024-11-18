@@ -1,4 +1,3 @@
-# Capstone Example Jekyll Website
 
 Aditya Melkote, avmelkote@ucsd.edu
 Mentor: Sheffield Nolan, B16
